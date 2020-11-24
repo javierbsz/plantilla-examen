@@ -1,0 +1,21 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../dev/sass/main.scss",
+        "../dev/sass/abstract/_variables.scss",
+        "../dev/sass/abstract/_functions.scss",
+        "../dev/sass/abstract/_mixins.scss",
+        "../dev/sass/base/_tipografia.scss",
+        "../dev/sass/components/_botones.scss",
+        "../dev/sass/layout/_footer.scss",
+        "../dev/sass/layout/_forms.scss",
+        "../dev/sass/layout/_grid.scss",
+        "../dev/sass/layout/_header.scss",
+        "../dev/sass/layout/_navegador.scss",
+        "../dev/sass/layout/_sidebar.scss",
+        "../dev/sass/pages/_index.scss"
+    ],
+    "names": [],
+    "file": "main.css"
+}

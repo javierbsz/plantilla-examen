@@ -4,7 +4,6 @@
 @import 'abstract/mixins';
 
 // BASE
-@import 'base/reset';
 @import 'base/tipografia';
 
 // COMPONENTS
@@ -19,6 +18,4 @@
 @import 'layout/sidebar';
 
 // PAGES
-@import 'pages/blog';
-@import 'pages/galeria';
 @import 'pages/index';
